@@ -1,0 +1,93 @@
+body {
+margin: 0;
+border: 5px solid black;
+}
+
+
+.loremtext {
+text-align: center;
+}
+
+.logo img {
+    position: relative;
+right: 4%;
+bottom: 37px;
+}
+
+.menu-botons {
+    border: 0;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.parrafo1 {
+    color: white;
+font-size: 18px;
+position: relative;
+left: 10px;
+
+
+}
+
+.parrafo2 {
+    color: white;
+   position: relative;
+   font-size: 18px;
+   left: 10px;
+    
+
+}
+
+.parrafo3 {
+    color: white;
+    font-size: 18px;
+    left: 10px;
+    position: relative;
+    
+
+}
+
+
+
+.boton {
+    display: flex;
+    justify-content: right;
+    position: relative;
+    bottom: 130px;
+    font-size: 30px;
+    right: 80px;
+    color: blue;
+
+}
+
+.boton2 {
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 113px;
+    font-size: 30px;
+    right: 80px;
+
+
+}
+
+
+.boton3 {
+    color: #2962ff;
+    color: ;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 98px;
+    font-size: 30px;
+    right: 80px;
+
+
+}
+
+    
+
+
